@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcolatore dell\'IMC</string>
+    <string name="tituloapp">APP FITNESS</string>
+    <string name="titulomenu" >Menú</string>
+    <string name="btnimc">Calcola BMI</string>
+    <string name="btnconversor">Convertidor</string>
+    <string name="btnvoltar">Esci</string>
+    <string name="btnimcc">Calcola BMI</string>
+    <string name="tituloimc">Calcolatore dell\'IMC</string>
+    <string name="ctxpeso">Indica il tuo peso...</string>
+    <string name="ctxaltura">Indica l\'altezza...</string>
+    <string name="btnReturn">Torna al Menu</string>
+    <string name="titConv">"Convertitore  "</string>
+    <string name="ctxPolegada">Inserisci un valore in Pollici...</string>
+    <string name="btnConvert">Convertire</string>
+    <string name="pol_para_pes">Polegadas para Pés  ita</string>
+</resources>

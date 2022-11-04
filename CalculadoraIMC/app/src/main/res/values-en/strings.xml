@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="tituloapp">FITNESS APP</string>
+    <string name="titulomenu" >Menu</string>
+    <string name="btnimc">Calculate BMI</string>
+    <string name="btnconversor">Converter</string>
+    <string name="btnvoltar">Exit</string>
+    <string name="btnimcc">Calculate BMI</string>
+    <string name="tituloimc">BMI Calculator</string>
+    <string name="ctxpeso">Insert your weight...</string>
+    <string name="ctxaltura">Insert your height...</string>
+    <string name="btnReturn">Return to Menu</string>
+    <string name="titConv">Converter</string>
+    <string name="ctxPolegada">Enter the value in Inches</string>
+    <string name="btnConvert">To convert</string>
+    <string name="pol_para_pes">Inches to Feet</string>
+</resources>

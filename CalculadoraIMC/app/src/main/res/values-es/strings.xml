@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="tituloapp">APP FITNESS</string>
+    <string name="titulomenu" >Menú</string>
+    <string name="btnimc">Calcular IMC</string>
+    <string name="btnconversor">Convertidor</string>
+    <string name="btnvoltar">Salir</string>
+    <string name="btnimcc">Calcular IMC</string>
+    <string name="tituloimc">Calculadora de IMC</string>
+    <string name="ctxpeso">Introduce tu peso...</string>
+    <string name="ctxaltura">Introduce tu altura...</string>
+    <string name="btnReturn">Volver al menú</string>
+    <string name="titConv">Convertidor</string>
+    <string name="ctxPolegada">Introduzca el valor en Pulgadas  ...</string>
+    <string name="btnConvert">Para convertir</string>
+    <string name="pol_para_pes">Polegadas para Pés  spa</string>
+</resources>
